@@ -10442,6 +10442,23 @@
     ],
     "timestamp": "Mar/17/2020 12:49"
   },
+  "CF73464953": {
+    "contest_id": 50,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\50\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Domino piling",
+    "problem_url": "https://codeforces.com/contest/50/problem/A",
+    "submission_id": "CF73464953",
+    "submission_url": "https://codeforces.com/contest/50/submission/73464953",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/17/2020 14:16"
+  },
   "CF73465556": {
     "contest_id": 231,
     "language": "C++17 (GCC 7-32)",
