@@ -13751,6 +13751,23 @@
     ],
     "timestamp": "Mar/18/2020 08:48"
   },
+  "CF73536221": {
+    "contest_id": 131,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\131\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "cAPS lOCK",
+    "problem_url": "https://codeforces.com/contest/131/problem/A",
+    "submission_id": "CF73536221",
+    "submission_url": "https://codeforces.com/contest/131/submission/73536221",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/18/2020 09:46"
+  },
   "CF73537473": {
     "contest_id": 133,
     "language": "C++17 (GCC 7-32)",
