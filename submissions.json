@@ -13853,6 +13853,22 @@
     ],
     "timestamp": "Apr/09/2020 20:52"
   },
+  "CF76005335": {
+    "contest_id": 110,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\110\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nearly Lucky Number",
+    "problem_url": "https://codeforces.com/contest/110/problem/A",
+    "submission_id": "CF76005335",
+    "submission_url": "https://codeforces.com/contest/110/submission/76005335",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/09/2020 21:06"
+  },
   "CF76008769": {
     "contest_id": 467,
     "language": "C++17 (GCC 7-32)",
