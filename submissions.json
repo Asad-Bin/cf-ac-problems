@@ -14003,6 +14003,23 @@
     ],
     "timestamp": "Apr/10/2020 17:13"
   },
+  "CF76082717": {
+    "contest_id": 469,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\469\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I Wanna Be the Guy",
+    "problem_url": "https://codeforces.com/contest/469/problem/A",
+    "submission_id": "CF76082717",
+    "submission_url": "https://codeforces.com/contest/469/submission/76082717",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/10/2020 17:18"
+  },
   "CF76083103": {
     "contest_id": 200,
     "language": "C++17 (GCC 7-32)",
