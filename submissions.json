@@ -18971,6 +18971,22 @@
     ],
     "timestamp": "Apr/15/2020 11:21"
   },
+  "CF76792655": {
+    "contest_id": 540,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\540\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Combination Lock",
+    "problem_url": "https://codeforces.com/contest/540/problem/A",
+    "submission_id": "CF76792655",
+    "submission_url": "https://codeforces.com/contest/540/submission/76792655",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/15/2020 18:10"
+  },
   "CF76796553": {
     "contest_id": 1294,
     "language": "C++17 (GCC 7-32)",
