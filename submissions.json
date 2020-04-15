@@ -16397,6 +16397,23 @@
     ],
     "timestamp": "Apr/15/2020 09:25"
   },
+  "CF76758389": {
+    "contest_id": 577,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\577\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Multiplication Table",
+    "problem_url": "https://codeforces.com/contest/577/problem/A",
+    "submission_id": "CF76758389",
+    "submission_url": "https://codeforces.com/contest/577/submission/76758389",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Apr/15/2020 11:07"
+  },
   "CF76759183": {
     "contest_id": 706,
     "language": "C++17 (GCC 7-32)",
