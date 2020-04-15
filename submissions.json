@@ -16397,6 +16397,23 @@
     ],
     "timestamp": "Apr/15/2020 09:25"
   },
+  "CF76897750": {
+    "contest_id": 474,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\474\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Worms",
+    "problem_url": "https://codeforces.com/contest/474/problem/B",
+    "submission_id": "CF76897750",
+    "submission_url": "https://codeforces.com/contest/474/submission/76897750",
+    "tags": [
+      "binary search",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/15/2020 23:43"
+  },
   "CF76898274": {
     "contest_id": 119,
     "language": "C++17 (GCC 7-32)",
