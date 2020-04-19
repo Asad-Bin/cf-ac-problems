@@ -19175,6 +19175,23 @@
     ],
     "timestamp": "Apr/19/2020 17:19"
   },
+  "CF77278839": {
+    "contest_id": 499,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\499\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lecture",
+    "problem_url": "https://codeforces.com/contest/499/problem/B",
+    "submission_id": "CF77278839",
+    "submission_url": "https://codeforces.com/contest/499/submission/77278839",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/19/2020 19:28"
+  },
   "CF77280361": {
     "contest_id": 550,
     "language": "C++17 (GCC 7-32)",
