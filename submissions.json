@@ -19381,6 +19381,24 @@
     ],
     "timestamp": "Apr/20/2020 20:45"
   },
+  "CF77380925": {
+    "contest_id": 742,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\742\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arpa\u2019s hard exam and Mehrdad\u2019s naive cheat",
+    "problem_url": "https://codeforces.com/contest/742/problem/A",
+    "submission_id": "CF77380925",
+    "submission_url": "https://codeforces.com/contest/742/submission/77380925",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Apr/20/2020 21:53"
+  },
   "CF77456379": {
     "contest_id": 124,
     "language": "C++17 (GCC 7-32)",
