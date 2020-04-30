@@ -19482,6 +19482,22 @@
     ],
     "timestamp": "Apr/22/2020 19:49"
   },
+  "CF78597125": {
+    "contest_id": 237,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\237\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Free Cash",
+    "problem_url": "https://codeforces.com/contest/237/problem/A",
+    "submission_id": "CF78597125",
+    "submission_url": "https://codeforces.com/contest/237/submission/78597125",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/01/2020 00:51"
+  },
   "CF78598337": {
     "contest_id": 1206,
     "language": "C++17 (GCC 7-32)",
