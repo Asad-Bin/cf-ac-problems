@@ -20333,6 +20333,22 @@
     ],
     "timestamp": "May/09/2020 21:37"
   },
+  "CF79551291": {
+    "contest_id": 1352,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1352\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF79551291",
+    "submission_url": "https://codeforces.com/contest/1352/submission/79551291",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "May/09/2020 22:12"
+  },
   "CF79572606": {
     "contest_id": 1352,
     "language": "C++17 (GCC 7-32)",
