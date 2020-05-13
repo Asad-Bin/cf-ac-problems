@@ -10694,6 +10694,24 @@
     ],
     "timestamp": "Apr/10/2020 18:03"
   },
+  "CF79968440": {
+    "contest_id": 381,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\381\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sereja and Dima",
+    "problem_url": "https://codeforces.com/contest/381/problem/A",
+    "submission_id": "CF79968440",
+    "submission_url": "https://codeforces.com/contest/381/submission/79968440",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "May/13/2020 16:28"
+  },
   "CF79990060": {
     "contest_id": 427,
     "language": "C++17 (GCC 7-32)",
