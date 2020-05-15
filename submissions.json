@@ -6327,6 +6327,23 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF80217670": {
+    "contest_id": 686,
+    "language": "C++17 (GCC 9-64)",
+    "path": "codeforces\\686\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Free Ice Cream",
+    "problem_url": "https://codeforces.com/contest/686/problem/A",
+    "submission_id": "CF80217670",
+    "submission_url": "https://codeforces.com/contest/686/submission/80217670",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/15/2020 17:05"
+  },
   "CF80219323": {
     "contest_id": 770,
     "language": "C++17 (GCC 9-64)",
