@@ -6327,6 +6327,24 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF80824453": {
+    "contest_id": 1351,
+    "language": "Java 11",
+    "path": "codeforces\\1351\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Square?",
+    "problem_url": "https://codeforces.com/contest/1351/problem/B",
+    "submission_id": "CF80824453",
+    "submission_url": "https://codeforces.com/contest/1351/submission/80824453",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/21/2020 12:15"
+  },
   "CF80835474": {
     "contest_id": 1351,
     "language": "Java 11",
