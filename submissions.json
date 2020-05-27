@@ -6327,6 +6327,22 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF81634029": {
+    "contest_id": 699,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\699\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Launch of Collider",
+    "problem_url": "https://codeforces.com/contest/699/problem/A",
+    "submission_id": "CF81634029",
+    "submission_url": "https://codeforces.com/contest/699/submission/81634029",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/27/2020 21:30"
+  },
   "CF81636275": {
     "contest_id": 289,
     "language": "C++17 (GCC 7-32)",
