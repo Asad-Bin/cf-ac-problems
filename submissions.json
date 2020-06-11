@@ -6327,6 +6327,23 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF83439232": {
+    "contest_id": 1366,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1366\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shuffle",
+    "problem_url": "https://codeforces.com/contest/1366/problem/B",
+    "submission_id": "CF83439232",
+    "submission_url": "https://codeforces.com/contest/1366/submission/83439232",
+    "tags": [
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Jun/11/2020 21:54"
+  },
   "CF83455871": {
     "contest_id": 1366,
     "language": "C++17 (GCC 7-32)",
