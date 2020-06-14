@@ -84,8 +84,8 @@ void task()
             continue;
         }
         if(ara[K]==i){
-            i++;
-            K++;continue;
+            i++; continue;
+            K++;
         }
         if(ans[L]!=-1){
             L++; continue;
