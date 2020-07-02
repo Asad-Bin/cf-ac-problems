@@ -6327,6 +6327,23 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF85763451": {
+    "contest_id": 236,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\236\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Easy Number Challenge",
+    "problem_url": "https://codeforces.com/contest/236/problem/B",
+    "submission_id": "CF85763451",
+    "submission_url": "https://codeforces.com/contest/236/submission/85763451",
+    "tags": [
+      "implementation",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jul/02/2020 17:00"
+  },
   "CF85767028": {
     "contest_id": 514,
     "language": "C++17 (GCC 7-32)",
