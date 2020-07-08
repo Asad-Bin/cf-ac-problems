@@ -6327,6 +6327,23 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF86238428": {
+    "contest_id": 544,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\544\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sea and Islands",
+    "problem_url": "https://codeforces.com/contest/544/problem/B",
+    "submission_id": "CF86238428",
+    "submission_url": "https://codeforces.com/contest/544/submission/86238428",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/08/2020 08:13"
+  },
   "CF86280912": {
     "contest_id": 304,
     "language": "C++17 (GCC 7-32)",
