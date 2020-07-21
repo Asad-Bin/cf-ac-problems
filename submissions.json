@@ -6327,6 +6327,24 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF87499534": {
+    "contest_id": 402,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\402\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Searching for Graph",
+    "problem_url": "https://codeforces.com/contest/402/problem/C",
+    "submission_id": "CF87499534",
+    "submission_url": "https://codeforces.com/contest/402/submission/87499534",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "graphs",
+      "*1500"
+    ],
+    "timestamp": "Jul/21/2020 15:41"
+  },
   "CF87502902": {
     "contest_id": 227,
     "language": "C++17 (GCC 7-32)",
