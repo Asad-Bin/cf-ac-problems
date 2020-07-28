@@ -6327,6 +6327,25 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF88168964": {
+    "contest_id": 271,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\271\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prime Matrix",
+    "problem_url": "https://codeforces.com/contest/271/problem/B",
+    "submission_id": "CF88168964",
+    "submission_url": "https://codeforces.com/contest/271/submission/88168964",
+    "tags": [
+      "binary search",
+      "brute force",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jul/28/2020 09:43"
+  },
   "CF88301854": {
     "contest_id": 1389,
     "language": "C++17 (GCC 7-32)",
