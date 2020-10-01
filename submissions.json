@@ -13588,6 +13588,24 @@
     ],
     "timestamp": "Aug/17/2020 11:07"
   },
+  "CF94411210": {
+    "contest_id": 1220,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1220\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Substring Game in the Lesson",
+    "problem_url": "https://codeforces.com/contest/1220/problem/C",
+    "submission_id": "CF94411210",
+    "submission_url": "https://codeforces.com/contest/1220/submission/94411210",
+    "tags": [
+      "games",
+      "greedy",
+      "strings",
+      "*1300"
+    ],
+    "timestamp": "Oct/01/2020 19:49"
+  },
   "CF94645743": {
     "contest_id": 1036,
     "language": "C++17 (GCC 7-32)",
