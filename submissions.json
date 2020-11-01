@@ -24487,6 +24487,23 @@
     ],
     "timestamp": "Oct/20/2020 20:56"
   },
+  "CF97307520": {
+    "contest_id": 1445,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1445\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Rearrangment",
+    "problem_url": "https://codeforces.com/contest/1445/problem/A",
+    "submission_id": "CF97307520",
+    "submission_url": "https://codeforces.com/contest/1445/submission/97307520",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/01/2020 17:11"
+  },
   "CF97316356": {
     "contest_id": 1445,
     "language": "C++17 (GCC 7-32)",
