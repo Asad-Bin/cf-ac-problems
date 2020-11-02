@@ -6327,6 +6327,24 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF97468485": {
+    "contest_id": 1443,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1443\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Delivery Dilemma",
+    "problem_url": "https://codeforces.com/contest/1443/problem/C",
+    "submission_id": "CF97468485",
+    "submission_url": "https://codeforces.com/contest/1443/submission/97468485",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/02/2020 21:38"
+  },
   "CF97620971": {
     "contest_id": 1443,
     "language": "C++17 (GCC 7-32)",
