@@ -1,4 +1,21 @@
 {
+  "CF100088294": {
+    "contest_id": 430,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\430\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balls Game",
+    "problem_url": "https://codeforces.com/contest/430/problem/B",
+    "submission_id": "CF100088294",
+    "submission_url": "https://codeforces.com/contest/430/submission/100088294",
+    "tags": [
+      "brute force",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Dec/01/2020 13:01"
+  },
   "CF100089289": {
     "contest_id": 84,
     "language": "C++17 (GCC 7-32)",
