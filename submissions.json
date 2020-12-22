@@ -1,4 +1,20 @@
 {
+  "CF102014022": {
+    "contest_id": 426,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\426\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sereja and Mirroring",
+    "problem_url": "https://codeforces.com/contest/426/problem/B",
+    "submission_id": "CF102014022",
+    "submission_url": "https://codeforces.com/contest/426/submission/102014022",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/22/2020 11:16"
+  },
   "CF102041695": {
     "contest_id": 675,
     "language": "C++17 (GCC 7-32)",
