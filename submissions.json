@@ -1,4 +1,20 @@
 {
+  "CF102085383": {
+    "contest_id": 975,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\975\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Valhalla Siege",
+    "problem_url": "https://codeforces.com/contest/975/problem/C",
+    "submission_id": "CF102085383",
+    "submission_url": "https://codeforces.com/contest/975/submission/102085383",
+    "tags": [
+      "binary search",
+      "*1400"
+    ],
+    "timestamp": "Dec/23/2020 09:13"
+  },
   "CF102303641": {
     "contest_id": 1468,
     "language": "C++17 (GCC 7-32)",
