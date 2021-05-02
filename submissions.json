@@ -196,6 +196,23 @@
     ],
     "timestamp": "Feb/23/2021 15:28"
   },
+  "CF114820029": {
+    "contest_id": 1137,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1137\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Skyscrapers",
+    "problem_url": "https://codeforces.com/contest/1137/problem/A",
+    "submission_id": "CF114820029",
+    "submission_url": "https://codeforces.com/contest/1137/submission/114820029",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "May/02/2021 10:04"
+  },
   "CF114880244": {
     "contest_id": 1515,
     "language": "C++17 (GCC 7-32)",
