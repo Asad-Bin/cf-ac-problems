@@ -196,6 +196,24 @@
     ],
     "timestamp": "Feb/23/2021 15:28"
   },
+  "CF115259124": {
+    "contest_id": 1520,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1520\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ordinary Numbers",
+    "problem_url": "https://codeforces.com/contest/1520/problem/B",
+    "submission_id": "CF115259124",
+    "submission_url": "https://codeforces.com/contest/1520/submission/115259124",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "May/05/2021 21:13"
+  },
   "CF115454798": {
     "contest_id": 1520,
     "language": "C++17 (GCC 7-32)",
