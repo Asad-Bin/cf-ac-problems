@@ -196,6 +196,23 @@
     ],
     "timestamp": "Feb/23/2021 15:28"
   },
+  "CF116494221": {
+    "contest_id": 1180,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1180\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Serge and Dining Room",
+    "problem_url": "https://codeforces.com/contest/1180/problem/E",
+    "submission_id": "CF116494221",
+    "submission_url": "https://codeforces.com/contest/1180/submission/116494221",
+    "tags": [
+      "data structures",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "May/17/2021 20:59"
+  },
   "CF116755678": {
     "contest_id": 1527,
     "language": "C++17 (GCC 7-32)",
