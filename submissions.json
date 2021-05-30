@@ -1,4 +1,20 @@
 {
+  "CF117881976": {
+    "contest_id": 1523,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1523\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Game of Life",
+    "problem_url": "https://codeforces.com/contest/1523/problem/A",
+    "submission_id": "CF117881976",
+    "submission_url": "https://codeforces.com/contest/1523/submission/117881976",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/30/2021 20:56"
+  },
   "CF117903996": {
     "contest_id": 1523,
     "language": "C++17 (GCC 7-32)",
