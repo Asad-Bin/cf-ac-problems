@@ -1,4 +1,23 @@
 {
+  "CF121783522": {
+    "contest_id": 1543,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1543\\D2..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "RPD and Rap Sheet (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1543/problem/D2",
+    "submission_id": "CF121783522",
+    "submission_url": "https://codeforces.com/contest/1543/submission/121783522",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Jul/09/2021 11:53"
+  },
   "CF122453145": {
     "contest_id": 1550,
     "language": "C++17 (GCC 7-32)",
