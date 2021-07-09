@@ -86,25 +86,22 @@ void pbin(int n)
 	for(auto x:vv) cout << x;
 	cout << "\n";
 }
- 
-ll xr(ll a, ll b, ll k)
-{
-	ll ans2 = 0, ans = 0;
-	while(a || b){
-		ans *= k;
-		ans += ((a%k+b%k+3*k)%k);
-		
-		a /= k;
-		b /= k;
-	}
-	
-	while(ans){
-		ans2 *= k;
-		ans2 += ans%k;
-		ans /= k;
-	}
-	
-	return ans2;
+ll xr(ll n, ll x, ll k){
+    //dbg(k);
+    ll ans = 0, ans2 = 0;
+    while(n != 0 or x != 0){
+        //dbg(n,x);
+        ans *=k;
+        ans += (n%k+x%k +3*k)%k;
+        n/=k; x/=k;
+    }
+    while(ans != 0){
+        //dbg(ans);
+        ans2*=k;
+        ans2+= ans%k;
+        ans /=k;
+    }
+    return ans2;
 }
 void task()
 {
