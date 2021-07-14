@@ -1,4 +1,21 @@
 {
+  "CF122453145": {
+    "contest_id": 1550,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1550\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Find The Array",
+    "problem_url": "https://codeforces.com/contest/1550/problem/A",
+    "submission_id": "CF122453145",
+    "submission_url": "https://codeforces.com/contest/1550/submission/122453145",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/14/2021 20:39"
+  },
   "CF122490151": {
     "contest_id": 1550,
     "language": "C++17 (GCC 7-32)",
