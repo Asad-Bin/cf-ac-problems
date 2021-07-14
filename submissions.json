@@ -1,4 +1,21 @@
 {
+  "CF122490151": {
+    "contest_id": 1550,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1550\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Cost Deletion",
+    "problem_url": "https://codeforces.com/contest/1550/problem/B",
+    "submission_id": "CF122490151",
+    "submission_url": "https://codeforces.com/contest/1550/submission/122490151",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jul/14/2021 21:39"
+  },
   "CF122782053": {
     "contest_id": 1530,
     "language": "C++17 (GCC 7-32)",
