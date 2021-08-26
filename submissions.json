@@ -1,4 +1,24 @@
 {
+  "CF127078817": {
+    "contest_id": 1562,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1562\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Scenes From a Memory",
+    "problem_url": "https://codeforces.com/contest/1562/problem/B",
+    "submission_id": "CF127078817",
+    "submission_url": "https://codeforces.com/contest/1562/submission/127078817",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Aug/26/2021 21:07"
+  },
   "CF127103576": {
     "contest_id": 1562,
     "language": "C++17 (GCC 7-32)",
