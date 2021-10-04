@@ -1,4 +1,20 @@
 {
+  "CF130819844": {
+    "contest_id": 669,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\669\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Little Artem and Time Machine",
+    "problem_url": "https://codeforces.com/contest/669/problem/E",
+    "submission_id": "CF130819844",
+    "submission_url": "https://codeforces.com/contest/669/submission/130819844",
+    "tags": [
+      "data structures",
+      "*2000"
+    ],
+    "timestamp": "Oct/04/2021 21:39"
+  },
   "CF130965255": {
     "contest_id": 1351,
     "language": "Java 11",
