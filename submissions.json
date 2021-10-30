@@ -1,4 +1,21 @@
 {
+  "CF133688854": {
+    "contest_id": 1604,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1604\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Moderate Modular Mode",
+    "problem_url": "https://codeforces.com/contest/1604/problem/D",
+    "submission_id": "CF133688854",
+    "submission_url": "https://codeforces.com/contest/1604/submission/133688854",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Oct/30/2021 23:35"
+  },
   "CF134071764": {
     "contest_id": 1607,
     "language": "C++17 (GCC 7-32)",
