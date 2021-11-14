@@ -1,4 +1,20 @@
 {
+  "CF135381980": {
+    "contest_id": 1589,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1589\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Coloring Rectangles",
+    "problem_url": "https://codeforces.com/contest/1589/problem/B",
+    "submission_id": "CF135381980",
+    "submission_url": "https://codeforces.com/contest/1589/submission/135381980",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Nov/14/2021 13:41"
+  },
   "CF135383029": {
     "contest_id": 1589,
     "language": "C++17 (GCC 7-32)",
