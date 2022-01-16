@@ -3471,6 +3471,23 @@
     ],
     "timestamp": "Jan/16/2022 20:42"
   },
+  "CF142983902": {
+    "contest_id": 1626,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1626\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minor Reduction",
+    "problem_url": "https://codeforces.com/contest/1626/problem/B",
+    "submission_id": "CF142983902",
+    "submission_url": "https://codeforces.com/contest/1626/submission/142983902",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Jan/16/2022 20:54"
+  },
   "CF143019824": {
     "contest_id": 1626,
     "language": "C++17 (GCC 7-32)",
