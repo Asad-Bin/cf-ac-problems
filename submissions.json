@@ -3471,6 +3471,23 @@
     ],
     "timestamp": "Jan/16/2022 20:42"
   },
+  "CF143692177": {
+    "contest_id": 1629,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1629\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Peculiar Movie Preferences",
+    "problem_url": "https://codeforces.com/contest/1629/problem/D",
+    "submission_id": "CF143692177",
+    "submission_url": "https://codeforces.com/contest/1629/submission/143692177",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jan/22/2022 22:17"
+  },
   "CF143697287": {
     "contest_id": 1629,
     "language": "C++17 (GCC 7-32)",
