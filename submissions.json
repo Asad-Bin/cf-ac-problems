@@ -1640,6 +1640,23 @@
     ],
     "timestamp": "Nov/26/2021 18:38"
   },
+  "CF144206033": {
+    "contest_id": 1631,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1631\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "And Matching",
+    "problem_url": "https://codeforces.com/contest/1631/problem/C",
+    "submission_id": "CF144206033",
+    "submission_url": "https://codeforces.com/contest/1631/submission/144206033",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "*1500"
+    ],
+    "timestamp": "Jan/27/2022 21:16"
+  },
   "CF144375121": {
     "contest_id": 1631,
     "language": "C++17 (GCC 7-32)",
