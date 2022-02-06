@@ -1640,6 +1640,24 @@
     ],
     "timestamp": "Nov/26/2021 18:38"
   },
+  "CF145346136": {
+    "contest_id": 584,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\584\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dima and Lisa",
+    "problem_url": "https://codeforces.com/contest/584/problem/D",
+    "submission_id": "CF145346136",
+    "submission_url": "https://codeforces.com/contest/584/submission/145346136",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Feb/06/2022 11:42"
+  },
   "CF145356981": {
     "contest_id": 1525,
     "language": "C++17 (GCC 7-32)",
