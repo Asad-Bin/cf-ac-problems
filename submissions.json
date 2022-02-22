@@ -1640,6 +1640,24 @@
     ],
     "timestamp": "Nov/26/2021 18:38"
   },
+  "CF147291544": {
+    "contest_id": 1644,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1644\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Anti-Fibonacci Permutation",
+    "problem_url": "https://codeforces.com/contest/1644/problem/B",
+    "submission_id": "CF147291544",
+    "submission_url": "https://codeforces.com/contest/1644/submission/147291544",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/22/2022 20:46"
+  },
   "CF147343463": {
     "contest_id": 1644,
     "language": "C++14 (GCC 6-32)",
