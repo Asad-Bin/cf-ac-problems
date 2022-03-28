@@ -1640,6 +1640,23 @@
     ],
     "timestamp": "Nov/26/2021 18:38"
   },
+  "CF151203755": {
+    "contest_id": 1658,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces\\1658\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Shinju and the Lost Permutation",
+    "problem_url": "https://codeforces.com/contest/1658/problem/C",
+    "submission_id": "CF151203755",
+    "submission_url": "https://codeforces.com/contest/1658/submission/151203755",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Mar/28/2022 10:58"
+  },
   "CF153083221": {
     "contest_id": 1303,
     "language": "C++14 (GCC 6-32)",
