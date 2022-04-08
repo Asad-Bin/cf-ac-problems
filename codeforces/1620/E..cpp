@@ -11,32 +11,38 @@ vector<int> v(MX+5), ara[MX+5];
 
 int main()
 {
-	int q;
+	int q, t, x, y, i = 0;
 	
 	cin >> q;
-	vector<int> t(q+1), x(q+1), y(q+1);
-	
-	for(int K = 1; K <= q; K++){
-		cin >> t[K] >> x[K];
+	while(q--){
+		cin >> t;
 		
-		if(t[K] == 2) cin >> y[K];
-	}
-	
-	vector<int> p(MX+1), ans;
-	iota(p.begin(), p.end(), 0);
-	
-	
-	for(int K = q; K >= 1; K--){
-		if(t[K] == 1){
-			ans.push_back(p[x[K]]);
+		if(t == 1){
+			cin >> v[i];
+			
+			ara[v[i]].push_back(i);
+			i++;
 		}
 		else{
-			p[x[K]] = p[y[K]];
+			cin >> x >> y;
+			
+			if(x != y){
+				if(ara[x].size() > ara[y].size()) ara[x].swap(ara[y]);
+				
+				for(int K = 0; K < (int)ara[x].size(); K++) ara[y].push_back(ara[x][K]);
+				ara[x].clear();
+			}
+		}
+		//cout << i << "\n";
+	}
+	
+	for(int K = 1; K <= MX; K++){
+		for(int L = 0; L < (int)ara[K].size(); L++){
+			v[ara[K][L]] = K;
 		}
 	}
 	
-	reverse(ans.begin(), ans.end());
-	for(auto it:ans) cout << it << ' ';
+	for(int K = 0; K < i; K++) cout << v[K] << ' ' ;
 	cout << "\n";
 	
 	return 0;
