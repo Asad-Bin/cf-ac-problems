@@ -1,4 +1,22 @@
 {
+  "CF154339104": {
+    "contest_id": 1669,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces\\1669\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "2-Letter Strings",
+    "problem_url": "https://codeforces.com/contest/1669/problem/E",
+    "submission_id": "CF154339104",
+    "submission_url": "https://codeforces.com/contest/1669/submission/154339104",
+    "tags": [
+      "data structures",
+      "math",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Apr/21/2022 21:02"
+  },
   "CF154349476": {
     "contest_id": 1669,
     "language": "C++14 (GCC 6-32)",
