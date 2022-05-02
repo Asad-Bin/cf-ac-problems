@@ -1,4 +1,22 @@
 {
+  "CF155606306": {
+    "contest_id": 1674,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1674\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Infinite Replacement",
+    "problem_url": "https://codeforces.com/contest/1674/problem/C",
+    "submission_id": "CF155606306",
+    "submission_url": "https://codeforces.com/contest/1674/submission/155606306",
+    "tags": [
+      "combinatorics",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "May/02/2022 20:47"
+  },
   "CF155619042": {
     "contest_id": 1674,
     "language": "C++17 (GCC 7-32)",
