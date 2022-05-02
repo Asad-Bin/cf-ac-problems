@@ -1,4 +1,21 @@
 {
+  "CF155598614": {
+    "contest_id": 1674,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1674\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Dictionary",
+    "problem_url": "https://codeforces.com/contest/1674/problem/B",
+    "submission_id": "CF155598614",
+    "submission_url": "https://codeforces.com/contest/1674/submission/155598614",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/02/2022 20:42"
+  },
   "CF155606306": {
     "contest_id": 1674,
     "language": "C++17 (GCC 7-32)",
