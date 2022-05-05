@@ -1,4 +1,22 @@
 {
+  "CF155987559": {
+    "contest_id": 1675,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1675\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vertical Paths",
+    "problem_url": "https://codeforces.com/contest/1675/problem/D",
+    "submission_id": "CF155987559",
+    "submission_url": "https://codeforces.com/contest/1675/submission/155987559",
+    "tags": [
+      "graphs",
+      "implementation",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "May/05/2022 22:01"
+  },
   "CF155997213": {
     "contest_id": 1675,
     "language": "C++17 (GCC 7-32)",
