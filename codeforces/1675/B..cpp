@@ -1,11 +1,11 @@
 // . . . Bismillahir Rahmanir Rahim . . .
- 
+
 #include <bits/stdc++.h>
- 
+
 using namespace std;
- 
+
 typedef long long ll;
- 
+
 int main()
 {
 	int t, n;
@@ -19,18 +19,26 @@ int main()
 		
 		int ans = 0;
 		for(int K = n-2; K >= 0; K--){
-			while(ara[K] && ara[K] >= ara[K+1]){
-				ara[K] >>= 1LL;
-				ans++;
-			}
-			if(ara[K] == 0 && K){
+			if(ara[K+1] == 1 && K){
 				ans = -1;
+				
 				break;
 			}
 			if(ara[K+1] == 0){
 				ans = -1;
 				break;
 			}
+			
+			if(ara[K] ==0) continue;
+			
+			int mid = max(0, (32-__builtin_clz(ara[K]))-(32-__builtin_clz(ara[K+1])));
+			
+			if((ara[K]>>mid) >= ara[K+1]) mid++;
+			
+			ans += mid;
+			//cout << ' ' << (32-__builtin_clz(ara[K])) << ' ' << (32-__builtin_clz(ara[K+1])) << "\n";
+
+			ara[K] >>= mid;
 		}
 		
 		cout << ans << "\n";
@@ -38,5 +46,55 @@ int main()
 	
 	return 0;
 }
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
