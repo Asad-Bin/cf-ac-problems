@@ -1,4 +1,21 @@
 {
+  "CF156037078": {
+    "contest_id": 1675,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1675\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make It Increasing",
+    "problem_url": "https://codeforces.com/contest/1675/problem/B",
+    "submission_id": "CF156037078",
+    "submission_url": "https://codeforces.com/contest/1675/submission/156037078",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "May/06/2022 09:22"
+  },
   "CF156089559": {
     "contest_id": 1670,
     "language": "C++17 (GCC 7-32)",
