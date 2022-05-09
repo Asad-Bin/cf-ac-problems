@@ -1,4 +1,21 @@
 {
+  "CF156414919": {
+    "contest_id": 1678,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1678\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tokitsukaze and Strange Inequality",
+    "problem_url": "https://codeforces.com/contest/1678/problem/C",
+    "submission_id": "CF156414919",
+    "submission_url": "https://codeforces.com/contest/1678/submission/156414919",
+    "tags": [
+      "brute force",
+      "data structures",
+      "*1600"
+    ],
+    "timestamp": "May/09/2022 19:27"
+  },
   "CF156572711": {
     "contest_id": 1678,
     "language": "C++17 (GCC 7-32)",
