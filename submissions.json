@@ -1,4 +1,20 @@
 {
+  "CF160915456": {
+    "contest_id": 1694,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1694\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Keshi in Search of AmShZ",
+    "problem_url": "https://codeforces.com/contest/1694/problem/E",
+    "submission_id": "CF160915456",
+    "submission_url": "https://codeforces.com/contest/1694/submission/160915456",
+    "tags": [
+      "shortest paths",
+      "*2300"
+    ],
+    "timestamp": "Jun/17/2022 09:02"
+  },
   "CF161048556": {
     "contest_id": 1695,
     "language": "C++17 (GCC 7-32)",
