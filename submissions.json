@@ -1,4 +1,22 @@
 {
+  "CF162858958": {
+    "contest_id": 1699,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1699\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Third Problem",
+    "problem_url": "https://codeforces.com/contest/1699/problem/C",
+    "submission_id": "CF162858958",
+    "submission_url": "https://codeforces.com/contest/1699/submission/162858958",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jul/05/2022 12:46"
+  },
   "CF163112672": {
     "contest_id": 1260,
     "language": "C++17 (GCC 7-32)",
