@@ -1,4 +1,24 @@
 {
+  "CF164061560": {
+    "contest_id": 1702,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1702\\F..cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Equate Multisets",
+    "problem_url": "https://codeforces.com/contest/1702/problem/F",
+    "submission_id": "CF164061560",
+    "submission_url": "https://codeforces.com/contest/1702/submission/164061560",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Jul/13/2022 23:31"
+  },
   "CF164269116": {
     "contest_id": 1705,
     "language": "C++17 (GCC 7-32)",
