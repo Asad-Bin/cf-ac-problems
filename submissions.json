@@ -1,4 +1,21 @@
 {
+  "CF164524740": {
+    "contest_id": 1708,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1708\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Difference Array",
+    "problem_url": "https://codeforces.com/contest/1708/problem/D",
+    "submission_id": "CF164524740",
+    "submission_url": "https://codeforces.com/contest/1708/submission/164524740",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jul/16/2022 22:30"
+  },
   "CF165135852": {
     "contest_id": 1709,
     "language": "C++17 (GCC 7-32)",
