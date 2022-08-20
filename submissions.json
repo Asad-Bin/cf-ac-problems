@@ -3380,6 +3380,25 @@
     ],
     "timestamp": "Jul/22/2022 08:11"
   },
+  "CF169136789": {
+    "contest_id": 1715,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1715\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Monoblock",
+    "problem_url": "https://codeforces.com/contest/1715/problem/C",
+    "submission_id": "CF169136789",
+    "submission_url": "https://codeforces.com/contest/1715/submission/169136789",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "implementation",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/20/2022 21:54"
+  },
   "CF169140253": {
     "contest_id": 1715,
     "language": "C++17 (GCC 7-32)",
