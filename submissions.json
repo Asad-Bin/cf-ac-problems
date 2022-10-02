@@ -7327,6 +7327,27 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF174420404": {
+    "contest_id": 1735,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1735\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Phase Shift",
+    "problem_url": "https://codeforces.com/contest/1735/problem/C",
+    "submission_id": "CF174420404",
+    "submission_url": "https://codeforces.com/contest/1735/submission/174420404",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Oct/02/2022 22:20"
+  },
   "CF176702458": {
     "contest_id": 1743,
     "language": "C++17 (GCC 7-32)",
