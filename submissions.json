@@ -7327,6 +7327,23 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF178403584": {
+    "contest_id": 1740,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1740\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Knowledge Cards",
+    "problem_url": "https://codeforces.com/contest/1740/problem/D",
+    "submission_id": "CF178403584",
+    "submission_url": "https://codeforces.com/contest/1740/submission/178403584",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "Oct/29/2022 19:00"
+  },
   "CF179205295": {
     "contest_id": 1747,
     "language": "C++17 (GCC 7-32)",
