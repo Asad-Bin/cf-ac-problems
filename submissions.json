@@ -7327,6 +7327,26 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF180108741": {
+    "contest_id": 1749,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1749\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Number Game",
+    "problem_url": "https://codeforces.com/contest/1749/problem/C",
+    "submission_id": "CF180108741",
+    "submission_url": "https://codeforces.com/contest/1749/submission/180108741",
+    "tags": [
+      "binary search",
+      "data structures",
+      "games",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/08/2022 22:01"
+  },
   "CF180226946": {
     "contest_id": 1119,
     "language": "C++17 (GCC 7-32)",
