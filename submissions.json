@@ -7327,6 +7327,24 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF180232818": {
+    "contest_id": 1554,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1554\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Diane",
+    "problem_url": "https://codeforces.com/contest/1554/problem/D",
+    "submission_id": "CF180232818",
+    "submission_url": "https://codeforces.com/contest/1554/submission/180232818",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Nov/10/2022 00:05"
+  },
   "CF180239460": {
     "contest_id": 1620,
     "language": "C++17 (GCC 7-32)",
