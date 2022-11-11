@@ -20,6 +20,8 @@ bool find_min(int u, int p , int h, bool f)
 	if((int)ara[u].size() == 1 && u != 1){
 		if(h%2==1 && h > 1 && f) ans = 3;
 		
+		//cout << u << ' ' << h << ' ' << ans << "\n";
+		
 		return 1;
 	}
 	
@@ -34,27 +36,37 @@ bool find_min(int u, int p , int h, bool f)
 	
 	if(odd == 0 || eve == 0) {}
 	else ans = 3;
+	//cout << u  << ' ' << odd << ' ' << eve << ' ' << ans << "\n";
 	
 	return (odd ? 0 : 1);
 }
 
 vector<int> par[N+5];
-void find_max(int u, int p, int h, bool f)
+bool find_max(int u, int p, int h, bool f)
 {
+	
 	if((int)ara[u].size() == 1 && u != 1){
 		if(h == 2 && f) ans--;
 		else par[p].push_back(h);
+		//cout << u << ' ' << h << ' ' <<  ans << "\n";
 		
-		return;
+		return 1;
 	}
 	
+	
+	int odd = 0, eve = 0;
 	for(int K = 0; K < (int)ara[u].size(); K++){
 		if(ara[u][K] != p){
-			find_max(ara[u][K], u, h+1, f);
+			bool ok = find_max(ara[u][K], u, h+1, f);
+			if(ok) odd++;
+			else eve++;	
 		}
 	}
 	
-	return;
+	//if(odd == 0 || eve == 0) {}
+	//else ans = 3;
+	
+	return (odd ? 0 : 1);
 }
 int main()
 {
@@ -83,6 +95,7 @@ int main()
 		for(int L = 1; L < (int)par[K].size(); L++){
 			if(par[K][L] == par[K][L-1]){
 				ans--;
+				//cout << K << ' ';
 			}
 		}
 	}
