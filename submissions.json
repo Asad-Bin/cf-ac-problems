@@ -7327,6 +7327,24 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF180745488": {
+    "contest_id": 1748,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1748\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Diverse Substrings",
+    "problem_url": "https://codeforces.com/contest/1748/problem/B",
+    "submission_id": "CF180745488",
+    "submission_url": "https://codeforces.com/contest/1748/submission/180745488",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Nov/13/2022 18:24"
+  },
   "CF180746209": {
     "contest_id": 1748,
     "language": "C++17 (GCC 7-32)",
