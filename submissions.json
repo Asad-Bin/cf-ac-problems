@@ -7327,6 +7327,22 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF181454937": {
+    "contest_id": 1759,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1759\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lost Permutation",
+    "problem_url": "https://codeforces.com/contest/1759/problem/B",
+    "submission_id": "CF181454937",
+    "submission_url": "https://codeforces.com/contest/1759/submission/181454937",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/18/2022 21:06"
+  },
   "CF181470805": {
     "contest_id": 1759,
     "language": "C++17 (GCC 7-32)",
