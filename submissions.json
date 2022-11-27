@@ -7327,6 +7327,22 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF182766713": {
+    "contest_id": 1765,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1765\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Broken Keyboard",
+    "problem_url": "https://codeforces.com/contest/1765/problem/B",
+    "submission_id": "CF182766713",
+    "submission_url": "https://codeforces.com/contest/1765/submission/182766713",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/27/2022 16:47"
+  },
   "CF182767559": {
     "contest_id": 1765,
     "language": "C++17 (GCC 7-32)",
