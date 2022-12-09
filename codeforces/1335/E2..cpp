@@ -43,7 +43,8 @@ int main()
 		memset(cnt, 0, sizeof cnt);
 		//int pos[202][n+5];
 		//memset(pos, -1, sizeof pos);
-		int mx[202] = {0};
+		int mx[202];
+		memset(mx, 0, sizeof mx);
 		
 		for(int K = 1; K <= n; K++){
 			if(K) for(int L = 1; L <= 200; L++) cnt[L][K] = cnt[L][K-1];
