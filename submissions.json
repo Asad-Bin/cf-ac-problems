@@ -7327,6 +7327,23 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF185134206": {
+    "contest_id": 1766,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1766\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Chains",
+    "problem_url": "https://codeforces.com/contest/1766/problem/D",
+    "submission_id": "CF185134206",
+    "submission_url": "https://codeforces.com/contest/1766/submission/185134206",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Dec/14/2022 08:38"
+  },
   "CF185302674": {
     "contest_id": 1762,
     "language": "C++17 (GCC 7-32)",
