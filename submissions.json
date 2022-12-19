@@ -7327,6 +7327,22 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF185908590": {
+    "contest_id": 1772,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1772\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation Game",
+    "problem_url": "https://codeforces.com/contest/1772/problem/E",
+    "submission_id": "CF185908590",
+    "submission_url": "https://codeforces.com/contest/1772/submission/185908590",
+    "tags": [
+      "games",
+      "*1700"
+    ],
+    "timestamp": "Dec/19/2022 10:48"
+  },
   "CF185963381": {
     "contest_id": 1763,
     "language": "C++17 (GCC 7-32)",
