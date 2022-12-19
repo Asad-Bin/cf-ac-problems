@@ -7327,6 +7327,25 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF185963381": {
+    "contest_id": 1763,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1763\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Absolute Maximization",
+    "problem_url": "https://codeforces.com/contest/1763/problem/A",
+    "submission_id": "CF185963381",
+    "submission_url": "https://codeforces.com/contest/1763/submission/185963381",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/19/2022 20:41"
+  },
   "CF185971561": {
     "contest_id": 1763,
     "language": "C++17 (GCC 7-32)",
