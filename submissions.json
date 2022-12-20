@@ -7327,6 +7327,24 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF186058121": {
+    "contest_id": 1763,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1763\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Another Array Problem",
+    "problem_url": "https://codeforces.com/contest/1763/problem/C",
+    "submission_id": "CF186058121",
+    "submission_url": "https://codeforces.com/contest/1763/submission/186058121",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Dec/20/2022 09:54"
+  },
   "CF186202605": {
     "contest_id": 706,
     "language": "C++17 (GCC 7-32)",
