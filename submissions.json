@@ -7327,6 +7327,25 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF188648862": {
+    "contest_id": 1768,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1768\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lucky Permutation",
+    "problem_url": "https://codeforces.com/contest/1768/problem/D",
+    "submission_id": "CF188648862",
+    "submission_url": "https://codeforces.com/contest/1768/submission/188648862",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Jan/10/2023 08:52"
+  },
   "CF189094178": {
     "contest_id": 1268,
     "language": "C++17 (GCC 7-32)",
