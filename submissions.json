@@ -7327,6 +7327,27 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF190372208": {
+    "contest_id": 1792,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1792\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fixed Prefix Permutations",
+    "problem_url": "https://codeforces.com/contest/1792/problem/D",
+    "submission_id": "CF190372208",
+    "submission_url": "https://codeforces.com/contest/1792/submission/190372208",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "hashing",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jan/24/2023 21:44"
+  },
   "CF190488849": {
     "contest_id": 1779,
     "language": "C++17 (GCC 7-32)",
