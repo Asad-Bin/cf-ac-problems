@@ -7327,6 +7327,23 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF190323107": {
+    "contest_id": 1792,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1792\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "GamingForces",
+    "problem_url": "https://codeforces.com/contest/1792/problem/A",
+    "submission_id": "CF190323107",
+    "submission_url": "https://codeforces.com/contest/1792/submission/190323107",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2023 20:39"
+  },
   "CF190344388": {
     "contest_id": 1792,
     "language": "C++17 (GCC 7-32)",
