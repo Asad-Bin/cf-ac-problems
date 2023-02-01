@@ -5693,6 +5693,23 @@
     ],
     "timestamp": "Oct/02/2022 21:02"
   },
+  "CF191553376": {
+    "contest_id": 1778,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1778\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Flip Flop Sum",
+    "problem_url": "https://codeforces.com/contest/1778/problem/A",
+    "submission_id": "CF191553376",
+    "submission_url": "https://codeforces.com/contest/1778/submission/191553376",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/01/2023 20:43"
+  },
   "CF191571910": {
     "contest_id": 1778,
     "language": "C++17 (GCC 7-32)",
