@@ -1,4 +1,22 @@
 {
+  "CF192182267": {
+    "contest_id": 1791,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1791\\G2..cpp",
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Teleporters (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1791/problem/G2",
+    "submission_id": "CF192182267",
+    "submission_url": "https://codeforces.com/contest/1791/submission/192182267",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Feb/04/2023 23:01"
+  },
   "CF192283826": {
     "contest_id": 1786,
     "language": "C++17 (GCC 7-32)",
