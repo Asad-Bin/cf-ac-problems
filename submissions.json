@@ -1,4 +1,22 @@
 {
+  "CF192620744": {
+    "contest_id": 1750,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1750\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Count GCD",
+    "problem_url": "https://codeforces.com/contest/1750/problem/D",
+    "submission_id": "CF192620744",
+    "submission_url": "https://codeforces.com/contest/1750/submission/192620744",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*1800"
+    ],
+    "timestamp": "Feb/07/2023 21:13"
+  },
   "CF192703887": {
     "contest_id": 1754,
     "language": "C++17 (GCC 7-32)",
