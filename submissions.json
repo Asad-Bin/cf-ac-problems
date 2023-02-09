@@ -1,4 +1,22 @@
 {
+  "CF192908641": {
+    "contest_id": 1788,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1788\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Matching Numbers",
+    "problem_url": "https://codeforces.com/contest/1788/problem/C",
+    "submission_id": "CF192908641",
+    "submission_url": "https://codeforces.com/contest/1788/submission/192908641",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Feb/09/2023 21:06"
+  },
   "CF193280979": {
     "contest_id": 1793,
     "language": "C++17 (GCC 7-32)",
