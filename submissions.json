@@ -1,4 +1,21 @@
 {
+  "CF193280979": {
+    "contest_id": 1793,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1793\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yet Another Promotion",
+    "problem_url": "https://codeforces.com/contest/1793/problem/A",
+    "submission_id": "CF193280979",
+    "submission_url": "https://codeforces.com/contest/1793/submission/193280979",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/12/2023 14:41"
+  },
   "CF193300302": {
     "contest_id": 1793,
     "language": "C++17 (GCC 7-32)",
