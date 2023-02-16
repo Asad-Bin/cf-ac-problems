@@ -1,4 +1,21 @@
 {
+  "CF193778173": {
+    "contest_id": 813,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\813\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Golden Age",
+    "problem_url": "https://codeforces.com/contest/813/problem/B",
+    "submission_id": "CF193778173",
+    "submission_url": "https://codeforces.com/contest/813/submission/193778173",
+    "tags": [
+      "brute force",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Feb/16/2023 07:04"
+  },
   "CF193778187": {
     "contest_id": 652,
     "language": "C++17 (GCC 7-32)",
