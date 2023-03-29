@@ -1,4 +1,21 @@
 {
+  "CF199660286": {
+    "contest_id": 1808,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1808\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Playing in a Casino",
+    "problem_url": "https://codeforces.com/contest/1808/problem/B",
+    "submission_id": "CF199660286",
+    "submission_url": "https://codeforces.com/contest/1808/submission/199660286",
+    "tags": [
+      "math",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Mar/29/2023 15:50"
+  },
   "CF200465768": {
     "contest_id": 1702,
     "language": "C++17 (GCC 7-32)",
