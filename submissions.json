@@ -1,4 +1,24 @@
 {
+  "CF202598058": {
+    "contest_id": 1820,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1820\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The Butcher",
+    "problem_url": "https://codeforces.com/contest/1820/problem/D",
+    "submission_id": "CF202598058",
+    "submission_url": "https://codeforces.com/contest/1820/submission/202598058",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Apr/18/2023 17:42"
+  },
   "CF203677578": {
     "contest_id": 1823,
     "language": "C++17 (GCC 7-32)",
