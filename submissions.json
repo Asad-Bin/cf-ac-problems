@@ -1,4 +1,22 @@
 {
+  "CF203706191": {
+    "contest_id": 1823,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1823\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sort with Step",
+    "problem_url": "https://codeforces.com/contest/1823/problem/B",
+    "submission_id": "CF203706191",
+    "submission_url": "https://codeforces.com/contest/1823/submission/203706191",
+    "tags": [
+      "brute force",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Apr/27/2023 21:58"
+  },
   "CF203906334": {
     "contest_id": 1823,
     "language": "C++17 (GCC 7-32)",
