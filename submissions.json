@@ -1,4 +1,22 @@
 {
+  "CF203906334": {
+    "contest_id": 1823,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1823\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Unique Palindromes",
+    "problem_url": "https://codeforces.com/contest/1823/problem/D",
+    "submission_id": "CF203906334",
+    "submission_url": "https://codeforces.com/contest/1823/submission/203906334",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Apr/29/2023 18:59"
+  },
   "CF203916080": {
     "contest_id": 1818,
     "language": "C++17 (GCC 7-32)",
