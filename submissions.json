@@ -1,4 +1,21 @@
 {
+  "CF204581973": {
+    "contest_id": 1826,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1826\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lunatic Never Content",
+    "problem_url": "https://codeforces.com/contest/1826/problem/B",
+    "submission_id": "CF204581973",
+    "submission_url": "https://codeforces.com/contest/1826/submission/204581973",
+    "tags": [
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "May/05/2023 20:53"
+  },
   "CF204590528": {
     "contest_id": 1826,
     "language": "C++17 (GCC 7-32)",
