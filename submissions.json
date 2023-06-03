@@ -1,4 +1,20 @@
 {
+  "CF208330849": {
+    "contest_id": 1839,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1839\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Insert Zero and Invert Prefix",
+    "problem_url": "https://codeforces.com/contest/1839/problem/C",
+    "submission_id": "CF208330849",
+    "submission_url": "https://codeforces.com/contest/1839/submission/208330849",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Jun/03/2023 21:44"
+  },
   "CF208439746": {
     "contest_id": 1838,
     "language": "C++17 (GCC 7-32)",
