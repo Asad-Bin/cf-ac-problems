@@ -1,4 +1,21 @@
 {
+  "CF208311757": {
+    "contest_id": 1839,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1839\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lamps",
+    "problem_url": "https://codeforces.com/contest/1839/problem/B",
+    "submission_id": "CF208311757",
+    "submission_url": "https://codeforces.com/contest/1839/submission/208311757",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jun/03/2023 20:53"
+  },
   "CF208330849": {
     "contest_id": 1839,
     "language": "C++17 (GCC 7-32)",
