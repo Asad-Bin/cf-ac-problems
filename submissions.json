@@ -7112,6 +7112,24 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF210885435": {
+    "contest_id": 1842,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1842\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tenzing and Books",
+    "problem_url": "https://codeforces.com/contest/1842/problem/B",
+    "submission_id": "CF210885435",
+    "submission_url": "https://codeforces.com/contest/1842/submission/210885435",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/24/2023 20:18"
+  },
   "CF210931148": {
     "contest_id": 1842,
     "language": "C++17 (GCC 7-32)",
