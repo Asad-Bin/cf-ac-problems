@@ -35,10 +35,10 @@ int main()
 	
 	int n, m; cin >> n >> m;
 	
-	memset(dist, 0x3f, sizeof dist);
+	//memset(dist, 0x3f, sizeof dist);
 	//for(int K = 1; K <= 10; K++) cout << dist[K] << ' ' ;
 	//cout << "\n";
-	//for(int K = 0; K <= 100; K++) for(int L = 0; L <= 100; L++) dist[K][L] = (ll)1e18+7;
+	for(int K = 0; K <= 100; K++) for(int L = 0; L <= 100; L++) dist[K][L] = (ll)1e18+7;
 	
 	for(int K  = 0; K < m; K++){
 		ll a, b, c; cin >> a >> b  >> c;
