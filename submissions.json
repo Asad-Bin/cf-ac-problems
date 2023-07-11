@@ -7112,6 +7112,23 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF213305677": {
+    "contest_id": 1844,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1844\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subtraction Game",
+    "problem_url": "https://codeforces.com/contest/1844/problem/A",
+    "submission_id": "CF213305677",
+    "submission_url": "https://codeforces.com/contest/1844/submission/213305677",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "*800"
+    ],
+    "timestamp": "Jul/11/2023 20:40"
+  },
   "CF213327737": {
     "contest_id": 1844,
     "language": "C++17 (GCC 7-32)",
