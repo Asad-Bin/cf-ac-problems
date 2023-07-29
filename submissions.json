@@ -7112,6 +7112,23 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF216327956": {
+    "contest_id": 1855,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1855\\C2..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Dual (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1855/problem/C2",
+    "submission_id": "CF216327956",
+    "submission_url": "https://codeforces.com/contest/1855/submission/216327956",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Jul/29/2023 22:43"
+  },
   "CF216380119": {
     "contest_id": 1855,
     "language": "C++17 (GCC 7-32)",
