@@ -7112,6 +7112,24 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF217695871": {
+    "contest_id": 1857,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1857\\F..cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Sum and Product",
+    "problem_url": "https://codeforces.com/contest/1857/problem/F",
+    "submission_id": "CF217695871",
+    "submission_url": "https://codeforces.com/contest/1857/submission/217695871",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Aug/07/2023 21:54"
+  },
   "CF218517573": {
     "contest_id": 1859,
     "language": "C++17 (GCC 7-32)",
