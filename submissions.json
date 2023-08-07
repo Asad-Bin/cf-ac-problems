@@ -7112,6 +7112,23 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF217650966": {
+    "contest_id": 1857,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1857\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Assembly via Minimums",
+    "problem_url": "https://codeforces.com/contest/1857/problem/C",
+    "submission_id": "CF217650966",
+    "submission_url": "https://codeforces.com/contest/1857/submission/217650966",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Aug/07/2023 21:05"
+  },
   "CF217659876": {
     "contest_id": 1857,
     "language": "C++17 (GCC 7-32)",
