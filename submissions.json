@@ -7112,6 +7112,24 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF218517573": {
+    "contest_id": 1859,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1859\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "United We Stand",
+    "problem_url": "https://codeforces.com/contest/1859/problem/A",
+    "submission_id": "CF218517573",
+    "submission_url": "https://codeforces.com/contest/1859/submission/218517573",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Aug/12/2023 20:53"
+  },
   "CF218532425": {
     "contest_id": 1859,
     "language": "C++17 (GCC 7-32)",
