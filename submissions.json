@@ -7112,6 +7112,25 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF218963359": {
+    "contest_id": 1858,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1858\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Permutation Problem",
+    "problem_url": "https://codeforces.com/contest/1858/problem/C",
+    "submission_id": "CF218963359",
+    "submission_url": "https://codeforces.com/contest/1858/submission/218963359",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Aug/15/2023 21:24"
+  },
   "CF219301297": {
     "contest_id": 1860,
     "language": "C++17 (GCC 7-32)",
