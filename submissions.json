@@ -7112,6 +7112,23 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF225132202": {
+    "contest_id": 1882,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1882\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1882/problem/C",
+    "submission_id": "CF225132202",
+    "submission_url": "https://codeforces.com/contest/1882/submission/225132202",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Sep/25/2023 21:38"
+  },
   "CF225212174": {
     "contest_id": 1882,
     "language": "C++17 (GCC 7-32)",
