@@ -4799,6 +4799,23 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF229412431": {
+    "contest_id": 1200,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1200\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Round Corridor",
+    "problem_url": "https://codeforces.com/contest/1200/problem/C",
+    "submission_id": "CF229412431",
+    "submission_url": "https://codeforces.com/contest/1200/submission/229412431",
+    "tags": [
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Oct/23/2023 17:28"
+  },
   "CF229505566": {
     "contest_id": 1189,
     "language": "C++20 (GCC 11-64)",
