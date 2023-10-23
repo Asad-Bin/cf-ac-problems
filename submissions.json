@@ -4799,6 +4799,25 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF229367131": {
+    "contest_id": 1888,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1888\\D2..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "Dances (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1888/problem/D2",
+    "submission_id": "CF229367131",
+    "submission_url": "https://codeforces.com/contest/1888/submission/229367131",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Oct/23/2023 10:22"
+  },
   "CF229373673": {
     "contest_id": 1884,
     "language": "C++20 (GCC 11-64)",
