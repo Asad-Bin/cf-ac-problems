@@ -4799,6 +4799,26 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF229531678": {
+    "contest_id": 1888,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1888\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Time Travel",
+    "problem_url": "https://codeforces.com/contest/1888/problem/E",
+    "submission_id": "CF229531678",
+    "submission_url": "https://codeforces.com/contest/1888/submission/229531678",
+    "tags": [
+      "binary search",
+      "data structures",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Oct/24/2023 14:49"
+  },
   "CF229726731": {
     "contest_id": 1888,
     "language": "C++20 (GCC 11-64)",
