@@ -4799,6 +4799,25 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF229726731": {
+    "contest_id": 1888,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1888\\F..cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Minimum Array",
+    "problem_url": "https://codeforces.com/contest/1888/problem/F",
+    "submission_id": "CF229726731",
+    "submission_url": "https://codeforces.com/contest/1888/submission/229726731",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "*2400"
+    ],
+    "timestamp": "Oct/25/2023 22:43"
+  },
   "CF230183313": {
     "contest_id": 1890,
     "language": "C++20 (GCC 11-64)",
