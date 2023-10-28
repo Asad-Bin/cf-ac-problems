@@ -4799,6 +4799,24 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF230214265": {
+    "contest_id": 1890,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1890\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Qingshan Loves Strings 2",
+    "problem_url": "https://codeforces.com/contest/1890/problem/C",
+    "submission_id": "CF230214265",
+    "submission_url": "https://codeforces.com/contest/1890/submission/230214265",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Oct/28/2023 21:16"
+  },
   "CF230246810": {
     "contest_id": 1890,
     "language": "C++20 (GCC 11-64)",
