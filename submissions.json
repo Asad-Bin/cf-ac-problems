@@ -4799,6 +4799,25 @@
     ],
     "timestamp": "Jun/22/2023 10:42"
   },
+  "CF230246810": {
+    "contest_id": 1890,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1890\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Doremy's Connecting Plan",
+    "problem_url": "https://codeforces.com/contest/1890/problem/D",
+    "submission_id": "CF230246810",
+    "submission_url": "https://codeforces.com/contest/1890/submission/230246810",
+    "tags": [
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Oct/28/2023 22:23"
+  },
   "CF230549293": {
     "contest_id": 1891,
     "language": "C++20 (GCC 11-64)",
