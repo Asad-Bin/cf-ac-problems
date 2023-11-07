@@ -1,4 +1,20 @@
 {
+  "CF231786042": {
+    "contest_id": 1894,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1894\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Out of Three",
+    "problem_url": "https://codeforces.com/contest/1894/problem/B",
+    "submission_id": "CF231786042",
+    "submission_url": "https://codeforces.com/contest/1894/submission/231786042",
+    "tags": [
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Nov/07/2023 22:03"
+  },
   "CF231790175": {
     "contest_id": 1894,
     "language": "C++20 (GCC 11-64)",
