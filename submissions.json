@@ -1,4 +1,22 @@
 {
+  "CF231930767": {
+    "contest_id": 1894,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1894\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Anonymous Informant",
+    "problem_url": "https://codeforces.com/contest/1894/problem/C",
+    "submission_id": "CF231930767",
+    "submission_url": "https://codeforces.com/contest/1894/submission/231930767",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Nov/08/2023 17:55"
+  },
   "CF232258246": {
     "contest_id": 1894,
     "language": "C++20 (GCC 11-64)",
