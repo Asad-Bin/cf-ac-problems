@@ -4886,6 +4886,24 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF236205203": {
+    "contest_id": 897,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\897\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Nephren gives a riddle",
+    "problem_url": "https://codeforces.com/contest/897/problem/C",
+    "submission_id": "CF236205203",
+    "submission_url": "https://codeforces.com/contest/897/submission/236205203",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/07/2023 19:18"
+  },
   "CF237734559": {
     "contest_id": 1913,
     "language": "C++20 (GCC 11-64)",
