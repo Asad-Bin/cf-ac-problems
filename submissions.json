@@ -4886,6 +4886,27 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF238545670": {
+    "contest_id": 1909,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1909\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Heavy Intervals",
+    "problem_url": "https://codeforces.com/contest/1909/problem/C",
+    "submission_id": "CF238545670",
+    "submission_url": "https://codeforces.com/contest/1909/submission/238545670",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dsu",
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Dec/23/2023 21:37"
+  },
   "CF238969447": {
     "contest_id": 1909,
     "language": "C++20 (GCC 11-64)",
