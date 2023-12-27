@@ -101,19 +101,17 @@ signed main()
 			}
 		}
 
-		// mx = 1e15;
-		// ll ans = 0;
-		// for(int K = 0; K < n; K++){
-		// 	if(ara[K] < mx){
-		// 		mx = ara[K];
-		// 		ans += dp[K][0];
-		// 		ans %= mod;
-		// 	}
-		// }
+		mx = 1e15;
+		ll ans = 0;
+		for(int K = 0; K < n; K++){
+			if(ara[K] < mx){
+				mx = ara[K];
+				ans += dp[K][0];
+				ans %= mod;
+			}
+		}
 
-		// cout << ans << "\n";
-
-		cout << dp[0][1] << "\n";
+		cout << ans << "\n";
 	}
 
 	return 0;

@@ -4886,6 +4886,25 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF239026997": {
+    "contest_id": 1913,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1913\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Array Collapse",
+    "problem_url": "https://codeforces.com/contest/1913/problem/D",
+    "submission_id": "CF239026997",
+    "submission_url": "https://codeforces.com/contest/1913/submission/239026997",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Dec/27/2023 10:53"
+  },
   "CF239027050": {
     "contest_id": 1913,
     "language": "C++20 (GCC 11-64)",
