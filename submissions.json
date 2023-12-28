@@ -4886,6 +4886,23 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF239176498": {
+    "contest_id": 1906,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1906\\M..cpp",
+    "platform": "Codeforces",
+    "problem_index": "M",
+    "problem_name": "Triangle Construction",
+    "problem_url": "https://codeforces.com/contest/1906/problem/M",
+    "submission_id": "CF239176498",
+    "submission_url": "https://codeforces.com/contest/1906/submission/239176498",
+    "tags": [
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/28/2023 15:13"
+  },
   "CF239185608": {
     "contest_id": 1906,
     "language": "C++20 (GCC 11-64)",
