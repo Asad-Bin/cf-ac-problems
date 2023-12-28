@@ -4886,6 +4886,27 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF239155534": {
+    "contest_id": 1917,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1917\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Inversions Problem",
+    "problem_url": "https://codeforces.com/contest/1917/problem/D",
+    "submission_id": "CF239155534",
+    "submission_url": "https://codeforces.com/contest/1917/submission/239155534",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory",
+      "*2300"
+    ],
+    "timestamp": "Dec/28/2023 11:29"
+  },
   "CF239175037": {
     "contest_id": 1906,
     "language": "C++20 (GCC 11-64)",
