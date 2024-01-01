@@ -4886,6 +4886,25 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF239911687": {
+    "contest_id": 1916,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1916\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Happy Life in University",
+    "problem_url": "https://codeforces.com/contest/1916/problem/E",
+    "submission_id": "CF239911687",
+    "submission_url": "https://codeforces.com/contest/1916/submission/239911687",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "trees",
+      "*2300"
+    ],
+    "timestamp": "Jan/01/2024 23:04"
+  },
   "CF239997872": {
     "contest_id": 1917,
     "language": "C++20 (GCC 11-64)",
