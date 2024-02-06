@@ -4886,6 +4886,24 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF245099979": {
+    "contest_id": 1927,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1927\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Following the String",
+    "problem_url": "https://codeforces.com/contest/1927/problem/B",
+    "submission_id": "CF245099979",
+    "submission_url": "https://codeforces.com/contest/1927/submission/245099979",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/06/2024 20:55"
+  },
   "CF245109830": {
     "contest_id": 1927,
     "language": "C++20 (GCC 11-64)",
