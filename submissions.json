@@ -4886,6 +4886,22 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF246135052": {
+    "contest_id": 1931,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1931\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Make Equal",
+    "problem_url": "https://codeforces.com/contest/1931/problem/B",
+    "submission_id": "CF246135052",
+    "submission_url": "https://codeforces.com/contest/1931/submission/246135052",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/13/2024 20:50"
+  },
   "CF246145796": {
     "contest_id": 1931,
     "language": "C++17 (GCC 7-32)",
