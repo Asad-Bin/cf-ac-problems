@@ -4886,6 +4886,25 @@
     ],
     "timestamp": "Nov/21/2023 10:30"
   },
+  "CF246197351": {
+    "contest_id": 1931,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1931\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Anna and the Valentine's Day Gift",
+    "problem_url": "https://codeforces.com/contest/1931/problem/E",
+    "submission_id": "CF246197351",
+    "submission_url": "https://codeforces.com/contest/1931/submission/246197351",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Feb/13/2024 21:37"
+  },
   "CF246487981": {
     "contest_id": 1883,
     "language": "C++20 (GCC 11-64)",
