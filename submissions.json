@@ -1,4 +1,22 @@
 {
+  "CF247914062": {
+    "contest_id": 1923,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1923\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Monsters Attack!",
+    "problem_url": "https://codeforces.com/contest/1923/problem/B",
+    "submission_id": "CF247914062",
+    "submission_url": "https://codeforces.com/contest/1923/submission/247914062",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Feb/23/2024 20:59"
+  },
   "CF247984956": {
     "contest_id": 1923,
     "language": "C++20 (GCC 11-64)",
