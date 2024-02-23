@@ -1,4 +1,21 @@
 {
+  "CF247897937": {
+    "contest_id": 1923,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1923\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Moving Chips",
+    "problem_url": "https://codeforces.com/contest/1923/problem/A",
+    "submission_id": "CF247897937",
+    "submission_url": "https://codeforces.com/contest/1923/submission/247897937",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/23/2024 20:42"
+  },
   "CF247914062": {
     "contest_id": 1923,
     "language": "C++20 (GCC 11-64)",
