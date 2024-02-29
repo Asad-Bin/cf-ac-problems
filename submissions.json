@@ -1,4 +1,21 @@
 {
+  "CF248905568": {
+    "contest_id": 1937,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1937\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shuffle Party",
+    "problem_url": "https://codeforces.com/contest/1937/problem/A",
+    "submission_id": "CF248905568",
+    "submission_url": "https://codeforces.com/contest/1937/submission/248905568",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/29/2024 20:39"
+  },
   "CF248918496": {
     "contest_id": 1937,
     "language": "C++20 (GCC 11-64)",
