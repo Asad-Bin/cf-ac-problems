@@ -1,4 +1,17 @@
 {
+  "CF249238602": {
+    "contest_id": 1938,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1938\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bit Counting Sequence",
+    "problem_url": "https://codeforces.com/contest/1938/problem/C",
+    "submission_id": "CF249238602",
+    "submission_url": "https://codeforces.com/contest/1938/submission/249238602",
+    "tags": [],
+    "timestamp": "Mar/02/2024 10:02"
+  },
   "CF249245329": {
     "contest_id": 1938,
     "language": "C++20 (GCC 11-64)",
