@@ -1,4 +1,17 @@
 {
+  "CF249233614": {
+    "contest_id": 1938,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1938\\H..cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Pho Restaurant",
+    "problem_url": "https://codeforces.com/contest/1938/problem/H",
+    "submission_id": "CF249233614",
+    "submission_url": "https://codeforces.com/contest/1938/submission/249233614",
+    "tags": [],
+    "timestamp": "Mar/02/2024 09:12"
+  },
   "CF249238602": {
     "contest_id": 1938,
     "language": "C++20 (GCC 11-64)",
