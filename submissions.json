@@ -1,4 +1,17 @@
 {
+  "CF249245329": {
+    "contest_id": 1938,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1938\\J..cpp",
+    "platform": "Codeforces",
+    "problem_index": "J",
+    "problem_name": "There and Back Again",
+    "problem_url": "https://codeforces.com/contest/1938/problem/J",
+    "submission_id": "CF249245329",
+    "submission_url": "https://codeforces.com/contest/1938/submission/249245329",
+    "tags": [],
+    "timestamp": "Mar/02/2024 11:05"
+  },
   "CF249397148": {
     "contest_id": 1938,
     "language": "C++20 (GCC 11-64)",
