@@ -1,4 +1,21 @@
 {
+  "CF252194122": {
+    "contest_id": 1945,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1945\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Setting up Camp",
+    "problem_url": "https://codeforces.com/contest/1945/problem/A",
+    "submission_id": "CF252194122",
+    "submission_url": "https://codeforces.com/contest/1945/submission/252194122",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/19/2024 14:09"
+  },
   "CF252202070": {
     "contest_id": 1945,
     "language": "C++17 (GCC 7-32)",
