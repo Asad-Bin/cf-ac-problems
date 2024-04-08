@@ -1,4 +1,20 @@
 {
+  "CF255636525": {
+    "contest_id": 1955,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1955\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Yogurt Sale",
+    "problem_url": "https://codeforces.com/contest/1955/problem/A",
+    "submission_id": "CF255636525",
+    "submission_url": "https://codeforces.com/contest/1955/submission/255636525",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/08/2024 20:37"
+  },
   "CF255663723": {
     "contest_id": 1955,
     "language": "C++17 (GCC 7-32)",
