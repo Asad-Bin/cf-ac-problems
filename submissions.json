@@ -1,4 +1,20 @@
 {
+  "CF261911121": {
+    "contest_id": 1974,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1974\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Money Buys Happiness",
+    "problem_url": "https://codeforces.com/contest/1974/problem/E",
+    "submission_id": "CF261911121",
+    "submission_url": "https://codeforces.com/contest/1974/submission/261911121",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/20/2024 22:58"
+  },
   "CF261949055": {
     "contest_id": 1974,
     "language": "C++20 (GCC 13-64)",
