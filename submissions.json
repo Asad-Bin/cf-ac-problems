@@ -1,4 +1,25 @@
 {
+  "CF262020451": {
+    "contest_id": 1974,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1974\\F..cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Cutting Game",
+    "problem_url": "https://codeforces.com/contest/1974/problem/F",
+    "submission_id": "CF262020451",
+    "submission_url": "https://codeforces.com/contest/1974/submission/262020451",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "implementation",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "May/21/2024 18:58"
+  },
   "CF262529106": {
     "contest_id": 1975,
     "language": "C++20 (GCC 13-64)",
