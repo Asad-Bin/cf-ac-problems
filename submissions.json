@@ -1,4 +1,22 @@
 {
+  "CF264409425": {
+    "contest_id": 1979,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1979\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Guess the Maximum",
+    "problem_url": "https://codeforces.com/contest/1979/problem/A",
+    "submission_id": "CF264409425",
+    "submission_url": "https://codeforces.com/contest/1979/submission/264409425",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/06/2024 20:38"
+  },
   "CF264434899": {
     "contest_id": 1979,
     "language": "C++17 (GCC 7-32)",
