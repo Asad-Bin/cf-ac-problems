@@ -1,4 +1,24 @@
 {
+  "CF265998818": {
+    "contest_id": 1978,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1978\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Manhattan Permutations",
+    "problem_url": "https://codeforces.com/contest/1978/problem/C",
+    "submission_id": "CF265998818",
+    "submission_url": "https://codeforces.com/contest/1978/submission/265998818",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jun/16/2024 15:33"
+  },
   "CF266012745": {
     "contest_id": 1978,
     "language": "C++17 (GCC 7-32)",
