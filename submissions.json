@@ -1,0 +1,22 @@
+{
+  "CF266032619": {
+    "contest_id": 1978,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1978\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Computing Machine",
+    "problem_url": "https://codeforces.com/contest/1978/problem/E",
+    "submission_id": "CF266032619",
+    "submission_url": "https://codeforces.com/contest/1978/submission/266032619",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "*2000"
+    ],
+    "timestamp": "Jun/16/2024 16:36"
+  }
+}
