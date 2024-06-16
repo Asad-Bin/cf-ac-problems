@@ -1,4 +1,22 @@
 {
+  "CF265991290": {
+    "contest_id": 1978,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1978\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Alice and Books",
+    "problem_url": "https://codeforces.com/contest/1978/problem/A",
+    "submission_id": "CF265991290",
+    "submission_url": "https://codeforces.com/contest/1978/submission/265991290",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/16/2024 15:24"
+  },
   "CF265998818": {
     "contest_id": 1978,
     "language": "C++17 (GCC 7-32)",
