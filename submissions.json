@@ -6327,6 +6327,25 @@
     ],
     "timestamp": "Jun/16/2024 16:36"
   },
+  "CF267362131": {
+    "contest_id": 1982,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1982\\C..cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Boring Day",
+    "problem_url": "https://codeforces.com/contest/1982/problem/C",
+    "submission_id": "CF267362131",
+    "submission_url": "https://codeforces.com/contest/1982/submission/267362131",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "two pointers"
+    ],
+    "timestamp": "Jun/25/2024 21:20"
+  },
   "CF267451891": {
     "contest_id": 1982,
     "language": "C++17 (GCC 7-32)",
