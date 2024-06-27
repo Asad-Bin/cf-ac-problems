@@ -14817,6 +14817,28 @@
     ],
     "timestamp": "Jun/26/2024 09:21"
   },
+  "CF267702631": {
+    "contest_id": 1989,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1989\\B..cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Substring and Subsequence",
+    "problem_url": "https://codeforces.com/contest/1989/problem/B",
+    "submission_id": "CF267702631",
+    "submission_url": "https://codeforces.com/contest/1989/submission/267702631",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "graphs",
+      "greedy",
+      "hashing",
+      "strings",
+      "trees"
+    ],
+    "timestamp": "Jun/27/2024 21:08"
+  },
   "CF267706052": {
     "contest_id": 1989,
     "language": "C++17 (GCC 7-32)",
