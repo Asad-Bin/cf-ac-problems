@@ -17206,6 +17206,27 @@
     ],
     "timestamp": "Jun/27/2024 21:12"
   },
+  "CF267877161": {
+    "contest_id": 1982,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1982\\E..cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Number of k-good subarrays",
+    "problem_url": "https://codeforces.com/contest/1982/problem/E",
+    "submission_id": "CF267877161",
+    "submission_url": "https://codeforces.com/contest/1982/submission/267877161",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "divide and conquer",
+      "dp",
+      "math",
+      "meet-in-the-middle",
+      "*2300"
+    ],
+    "timestamp": "Jun/28/2024 20:57"
+  },
   "CF35604020": {
     "contest_id": 935,
     "language": "GNU C",
