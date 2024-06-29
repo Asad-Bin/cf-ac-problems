@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1404 | [D - Smithing Skill](https://codeforces.com/contest/1989/problem/D) | [C++17 (GCC 7-32)](./codeforces/1989/D..cpp) | `brute force` `dp` `greedy` `math` `sortings` `two pointers` | Jun/29/2024 13:34 | 
 1403 | [E - Number of k-good subarrays](https://codeforces.com/contest/1982/problem/E) | [C++17 (GCC 7-32)](./codeforces/1982/E..cpp) | `bitmasks` `combinatorics` `divide and conquer` `dp` `math` `meet-in-the-middle` `*2300` | Jun/28/2024 20:57 | 
 1402 | [C - Two Movies](https://codeforces.com/contest/1989/problem/C) | [C++17 (GCC 7-32)](./codeforces/1989/C..cpp) | `greedy` | Jun/27/2024 21:12 | 
 1401 | [B - Substring and Subsequence](https://codeforces.com/contest/1989/problem/B) | [C++17 (GCC 7-32)](./codeforces/1989/B..cpp) | `bitmasks` `brute force` `dp` `graphs` `greedy` `hashing` `strings` `trees` | Jun/27/2024 21:08 | 

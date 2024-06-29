@@ -17227,6 +17227,26 @@
     ],
     "timestamp": "Jun/28/2024 20:57"
   },
+  "CF267961739": {
+    "contest_id": 1989,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1989\\D..cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Smithing Skill",
+    "problem_url": "https://codeforces.com/contest/1989/problem/D",
+    "submission_id": "CF267961739",
+    "submission_url": "https://codeforces.com/contest/1989/submission/267961739",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Jun/29/2024 13:34"
+  },
   "CF35604020": {
     "contest_id": 935,
     "language": "GNU C",
