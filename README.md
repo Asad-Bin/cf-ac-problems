@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1411 | [D - Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | [C++17 (GCC 7-32)](./codeforces/1983/D..cpp) | `constructive algorithms` `divide and conquer` `greedy` `math` `sortings` | Jul/07/2024 21:30 | 
-1410 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C..cpp) | `binary search` `brute force` `dp` `greedy` `implementation` | Jul/07/2024 21:13 | 
-1409 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B..cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 20:46 | 
+1412 | [D - Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | [C++17 (GCC 7-32)](./codeforces/1983/D..cpp) | `constructive algorithms` `divide and conquer` `greedy` `math` `sortings` | Jul/07/2024 21:30 | 
+1411 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++17 (GCC 7-32)](./codeforces/1983/C..cpp) | `binary search` `brute force` `dp` `greedy` `implementation` | Jul/07/2024 21:13 | 
+1410 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++17 (GCC 7-32)](./codeforces/1983/B..cpp) | `constructive algorithms` `greedy` `implementation` `math` | Jul/07/2024 20:46 | 
+1409 | [A - Array Divisibility](https://codeforces.com/contest/1983/problem/A) | [C++17 (GCC 7-32)](./codeforces/1983/A..cpp) | `constructive algorithms` `math` | Jul/07/2024 20:37 | 
 1408 | [D - World is Mine](https://codeforces.com/contest/1987/problem/D) | [C++17 (GCC 7-32)](./codeforces/1987/D..cpp) | `dp` `games` `greedy` | Jun/30/2024 21:56 | 
 1407 | [C - Basil's Garden](https://codeforces.com/contest/1987/problem/C) | [C++17 (GCC 7-32)](./codeforces/1987/C..cpp) | `dp` `greedy` | Jun/30/2024 21:11 | 
 1406 | [B - K-Sort](https://codeforces.com/contest/1987/problem/B) | [C++17 (GCC 7-32)](./codeforces/1987/B..cpp) | `greedy` | Jun/30/2024 20:43 | 

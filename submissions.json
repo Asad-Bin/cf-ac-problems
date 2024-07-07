@@ -17311,6 +17311,22 @@
     ],
     "timestamp": "Jun/30/2024 21:56"
   },
+  "CF269225396": {
+    "contest_id": 1983,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1983\\A..cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Divisibility",
+    "problem_url": "https://codeforces.com/contest/1983/problem/A",
+    "submission_id": "CF269225396",
+    "submission_url": "https://codeforces.com/contest/1983/submission/269225396",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Jul/07/2024 20:37"
+  },
   "CF269236597": {
     "contest_id": 1983,
     "language": "C++17 (GCC 7-32)",
