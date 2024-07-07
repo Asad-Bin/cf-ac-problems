@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1409 | [D - Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | [C++17 (GCC 7-32)](./codeforces/1983/D..cpp) | `constructive algorithms` `divide and conquer` `greedy` `math` `sortings` | Jul/07/2024 21:30 | 
 1408 | [D - World is Mine](https://codeforces.com/contest/1987/problem/D) | [C++17 (GCC 7-32)](./codeforces/1987/D..cpp) | `dp` `games` `greedy` | Jun/30/2024 21:56 | 
 1407 | [C - Basil's Garden](https://codeforces.com/contest/1987/problem/C) | [C++17 (GCC 7-32)](./codeforces/1987/C..cpp) | `dp` `greedy` | Jun/30/2024 21:11 | 
 1406 | [B - K-Sort](https://codeforces.com/contest/1987/problem/B) | [C++17 (GCC 7-32)](./codeforces/1987/B..cpp) | `greedy` | Jun/30/2024 20:43 | 
